@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 766d0da49fa86934580c2bc2b3290128, type: 3}
+  iconMaxWidth: 128
+  title: FG Game Starter Package
+  sections:
+  - heading: Welcome
+    text: "Welcome to FG Game Starter Pack. This pack created and edited by Semih
+      Kubilay \xC7etin and Ismail Hakk\u0131 Kara. Contact addresses is in below"
+    linkText: 
+    url: 
+  - heading: "Semih Kubilay \xC7etin"
+    text: Creator & Creator
+    linkText: Linkedin Profile
+    url: "https://www.linkedin.com/in/semih-kubilay-\xE7etin-2071851a5/"
+  - heading: "Ismail Hakk\u0131 Kara"
+    text: Creator & Creator
+    linkText: Linkedin Profile
+    url: https://www.linkedin.com/in/karaismailhakki/
+  - heading: Thanks for using our Package :)
+    text: 
+    linkText: 
+    url: 
+  loadedLayout: 1
